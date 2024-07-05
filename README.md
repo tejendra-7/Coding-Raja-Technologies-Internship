@@ -1,5 +1,10 @@
 # Coding-Raja-Technologies-Internship
 This is a full-stack mern-blog website that I made as a part of my internship project. It contains an admin pannel to manage your blogs, new users can register, login , logout, and manage their posts from the dashboard.
+
+# Home page 
+![Screenshot (434)](https://github.com/tejendra-7/Coding-Raja-Technologies-Internship/assets/99530664/7ee30098-b44e-4265-8977-3ac9d54cb67b)
+
+
 # Sign In page
 ![Screenshot (431)](https://github.com/tejendra-7/Coding-Raja-Technologies-Internship/assets/99530664/31b8e066-527c-463f-acd7-a64c8dbb7b44)
 
